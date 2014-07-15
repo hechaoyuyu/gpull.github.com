@@ -1,0 +1,9 @@
+
+http://www.gpull.com/rss.xml
+http://www.gpull.com/index.html
+http://www.gpull.com/pages.html
+http://www.gpull.com/categories.html
+http://www.gpull.com/sitemap.txt
+http://www.gpull.com/archive.html
+http://www.gpull.com/tags.html
+http://www.gpull.com/atom.xml

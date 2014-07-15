@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: github博客
+tagline: www.gpull.com
 ---
 {% include JB/setup %}
 

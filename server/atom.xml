@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>我的个人博客</title>
+ <link href="http://www.gpull.com/" rel="self"/>
+ <link href="http://www.gpull.com"/>
+ <updated>2014-07-15T23:50:34+08:00</updated>
+ <id>http://www.gpull.com</id>
+ <author>
+   <name>hechao</name>
+   <email>hechaoyuyu@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
